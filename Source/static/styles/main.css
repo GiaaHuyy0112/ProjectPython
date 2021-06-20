@@ -1,0 +1,9 @@
+.container .overflow-auto{
+    height: 500px;
+    border: solid 1px black;
+}
+
+.container .img-thumbnail{
+    object-fit: cover;
+    width: 100%;
+}

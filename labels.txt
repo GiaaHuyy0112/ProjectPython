@@ -1,6 +1,0 @@
-0 Grenade
-1 Knives
-2 Machine Guns
-3 Masked Face
-4 Pistol Hand Guns
-5 RPG
