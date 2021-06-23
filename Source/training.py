@@ -17,7 +17,7 @@ import os
 
 
 
-args = {'dataset':'data/train','model':'normal.h5', 'label_bin':'bin', 'plot':'plot'}
+args = {'dataset':'static/data/train','model':'normal.h5', 'label_bin':'bin', 'plot':'plot'}
 
 
 # initialize the data and labels
